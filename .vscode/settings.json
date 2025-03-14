@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/yannick/Development/code/phase-3/gym-buddy/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/yannick/Development/code/phase-3/gym-buddy/.venv/lib/python3.8/site-packages"
+    ]
+}
